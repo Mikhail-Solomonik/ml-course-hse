@@ -1,10 +1,10 @@
 # ML course HSE
-В данном репозитории находится код для курса машинного обучения от ФКН ВШЭ
+This repository contains the code for the machine learning course from the HSE Faculty of Computer Science
 ## hw 1
-Тренировка по пандасу и первичному анализу данных
+Pandas training and primary data analysis
 ## hw 2
-Работа с линейной регрессией
+Working with Linear Regression
 ## hw 3
-Код по линейной классификации
+Linear classification code
 ## hw 4
-Разложение ошибки на смещение и разброс
+Decomposition of error into bias and spread
